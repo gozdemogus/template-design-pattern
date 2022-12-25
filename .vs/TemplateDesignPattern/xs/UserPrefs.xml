@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6C015F86-8E18-4BC9-8DD3-D321A4F4915C}|WebApplication1">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TemplateDesignPattern/Views/_ViewImports.cshtml">
+    <Files>
+      <File FileName="TemplateDesignPattern/Views/_ViewImports.cshtml" Line="6" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemplateDesignPattern" expanded="True">
+            <Node name="TemplateDesignPattern" expanded="True">
+              <Node name="DAL" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="_ViewImports.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TemplateDesignPattern PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
